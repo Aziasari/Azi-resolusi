@@ -1,3 +1,5 @@
 Azi-Resolusi
 - info yang menarik
 - membuat forum diskusi
+- membuat forum untuk pendaftaran
+- membuat icon sosial media
